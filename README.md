@@ -1,4 +1,4 @@
-# EchoCNN: CNN-Based Audio Classification Framework
+# AudioVision: CNN-Based Audio Classification Framework
 
 ## 📌 Overview
 EchoCNN is a deep learning-based **audio classification framework** designed to classify real-time audio samples with high accuracy. Built using **Convolutional Neural Networks (CNNs)**, this model was trained on **3,000 labeled audio samples from IIT Jammu**, achieving an impressive **94% accuracy**.
